@@ -1,13 +1,1 @@
 MATLAB/README.md
-# MATLAB
-
-En esta carpeta se encuentran los scripts desarrollados en MATLAB para el procesamiento y análisis de las señales estudiadas durante la práctica.
-
-## Contenido
-
-* Reconstrucción de señales mediante Series de Fourier.
-* Cálculo de armónicos teóricos.
-* Lectura y procesamiento de archivos `.csv` obtenidos del osciloscopio.
-* Cálculo de la Transformada Rápida de Fourier (FFT).
-* Identificación de la frecuencia fundamental y armónicos.
-* Generación de gráficas en los dominios del tiempo y la frecuencia.
